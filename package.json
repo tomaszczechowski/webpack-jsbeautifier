@@ -1,0 +1,17 @@
+{
+  "name": "webpack-jsbeautifier",
+  "version": "0.1.0",
+  "description": "Webpack plugin for jsbeautifier ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "git@github.com:tomaszczechowski/webpack-jsbeautifier.git",
+  "keywords": [
+    "webpack",
+    "webpack-jsbeautifier",
+    "jsbeautifier"
+  ],
+  "author": "Tomasz Czechowski",
+  "license": "MIT"
+}
